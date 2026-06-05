@@ -1,0 +1,28 @@
+OLA
+___
+
+© Copyright 2001-2025 Svenska Orienteringsförbundet
+
+OLA får endast användas av föreningar anslutna till Svenska Orienteringsförbundet
+eller efter att avtal ingåtts med Svenska Orienteringsförbundet. OLA med program 
+& dokumentation får bara spridas till medlemmar i föreningar anslutna till Svenska
+Orienteringsförbundet. Överträdelser beivras.
+
+___________________________________________________________________________________
+
+
+OLA använder sig av några programbibliotek med licenserna:
+* GNU Lesser General Public License
+* Eclipse Public License
+* Apache License
+* MIT License
+* CDDL License
+
+För en komplett lista av använda bibliotek och dess licenser hänvisas till följande sida i OLAs installationsmapp.
+webpages\dependency-license\index.html
+
+OLA är byggt på och distribuerar också Open JDK 11.
+
+
+
+

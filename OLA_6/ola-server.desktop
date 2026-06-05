@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=bash -c "APP_HOME/OLA-Server.sh"
+Icon=APP_HOME/OLA_server_ikon.png
+Name=OLA-Server
+Comment=Svenska Orienteringsförbundets tävlingsadministrativa system OLA
